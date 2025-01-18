@@ -1,7 +1,7 @@
 l
 <h1 align="center">ROWDY-MD 999.9</h1>
 
-<img src="https://i.ibb.co/XLHwccH/08b166cc5426abb3.jpg" height="90" width="100%">
+<img src="https://i.ibb.co/XLHwccH/08b166cc5426abb3.jpg" height="1000" width="1000%">
 <img src="https://imgur.com/a/PKIyvOE.gif" height="90" width="100%">
 
 <p align="center">

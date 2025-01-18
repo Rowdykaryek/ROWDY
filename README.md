@@ -1,4 +1,4 @@
-.l
+
 <h1 align="center">ROWDY-MD 999.9</h1>
 
 <img src="https://i.ibb.co/XLHwccH/08b166cc5426abb3.jpg" height="90" width="100%">
@@ -119,6 +119,11 @@
 
 
 
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://i.gifer.com/GYny.gif" />
+<br>
+
+### <br> No LOVE 💕 NO STRESS ☺️
 
 
 ]

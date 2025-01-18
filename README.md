@@ -1,7 +1,7 @@
 l
 <h1 align="center">ROWDY-MD 999.9</h1>
 
-<img src="https://imgur.com/a/1hsXz3U" height="90" width="100%">
+<img src="https://imgur.com/a/1hsXz3U.gif" height="90" width="100%">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ROWDY+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>

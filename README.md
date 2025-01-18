@@ -11,7 +11,7 @@ l
 <a href="https://github.com/VajiraTechOfficial/">
      <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
    
-<img src="https://imgur.com/a/PKIyvOE.gif"  width="700px">
+<img src="https://i.ibb.co/BBMJK88/3fbcd0b9bc23eb4e.jpg"  width="700px">
 </a>
 <hr>
 

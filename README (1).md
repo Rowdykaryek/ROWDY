@@ -1,7 +1,7 @@
 l
 <h1 align="center">VAJIRA-MD 8.O</h1>
 
-<img src="https://i.ibb.co/BBMJK88/3fbcd0b9bc23eb4e.jpg" height="90" width="100%">
+<img src="https://i.ibb.co/XLHwccH/08b166cc5426abb3.jpg" height="90" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">

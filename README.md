@@ -33,24 +33,24 @@ l
 
 <p align="center">
   <a href="https://github/Rowdykaryek/ROWDY">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Rowdykaryek/ROWDY?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA_MD?color=purple&label=License&style=plastic">
+  <a href="https://github.com/Rowdykaryek/ROWDY">
+    <img src="https://img.shields.io/github/license/Rowdykaryek/ROWDY?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA_MD?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/Rowdykaryek/ROWDY">
+    <img src="https://img.shields.io/github/languages/top/Rowdykaryek/ROWDY?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
+  <a href="https://github.com/Rowdykayek/ROWDY">
     <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
+  <a href="https://github.com/Rowdykaryek/ROWDY">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
 
   </a>
@@ -58,9 +58,9 @@ l
 
 ## 💡 FOLLOW OUR CHANNELS
 
-<a href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+<a href="https://whatsapp.com/channel/0029Vb3930A4IBhEddCmjD0U"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
-<a href="https://www.youtube.com/@VajiraTech"><img src="https://img.shields.io/badge/Subscribe%20My%20Youtube%20Channel-blue" alt="📎 Subscribe My Youtube Channel" width="350"></a>
+<a href="https://youtube.com/@malishadawshan?si=RGBjCWDVrvF2rXGT"><img src="https://img.shields.io/badge/Subscribe%20My%20Youtube%20Channel-blue" alt="📎 Subscribe My Youtube Channel" width="350"></a>
 
 <br>
 

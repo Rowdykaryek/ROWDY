@@ -1,4 +1,4 @@
-l
+.l
 <h1 align="center">ROWDY-MD 999.9</h1>
 
 <img src="https://i.ibb.co/XLHwccH/08b166cc5426abb3.jpg" height="90" width="100%">
@@ -62,18 +62,18 @@ l
 
 <a href="https://youtube.com/@cyberrowdy-e4p?si=jY5rSnSkLESNzs_-"><img src="https://img.shields.io/badge/Subscribe%20My%20Youtube%20Channel-red" alt="📎 Subscribe My Youtube Channel" width="350"></a>
 
-.<a href="https://wa.me/message/TVV5ALKIG3AXO1"><img src="https://img.shields.io/badge/NOW_MSG%20My%20Whatshapp %20accounts-white" alt="📎 Now massg my whatshapp accounts" width="350"></a>
+<a href="https://wa.me/message/TVV5ALKIG3AXO1"><img src="https://img.shields.io/badge/NOW_MSG%20My%20Whatshapp %20accounts-white" alt="📎 Now massg my whatshapp accounts" width="350"></a>
 <br>
 
 <div align="center">
  
-  <h1>👇 DEPLOY NOW 👇</h1>
+  <h1> 🇲🇪👾 𝐃𝐄𝐏𝐋𝐎𝐘 𝐍𝐎𝐖 👾🇲🇪 </h1>
 </div>
 
 <br>
 
 
-## 🎀 STEPS -  Deployment Methods
+##  🏴‍☠️💀𝐃𝐄𝐏𝐋𝐎𝐘 𝐌𝐄𝐓𝐇𝐎𝐃𝐒☠️🏴‍☠️
 
 <a href="https://tdd-gangs.github.io/Deployme"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
